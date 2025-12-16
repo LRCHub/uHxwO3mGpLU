@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "アルペジオ",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-16T03:24:01.934897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/01_アルペジオ_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/02_アルペジオ_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "Inori Minase",
+      "has_synced": true,
+      "path": "select/03_アルペジオ_Inori_Minase.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/04_アルペジオ_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アルペジオ - Arpeggio",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/05_アルペジオ_-_Arpeggio_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "水瀬いのり",
+      "has_synced": true,
+      "path": "select/06_アルペジオ_水瀬いのり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "Tomita Lab.",
+      "has_synced": false,
+      "path": "select/07_アルペジオ_Tomita_Lab..txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "Clean Tears",
+      "has_synced": false,
+      "path": "select/08_アルペジオ_Clean_Tears.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アルペジオ - Extended Mix",
+      "artist": "Clean Tears",
+      "has_synced": false,
+      "path": "select/09_アルペジオ_-_Extended_Mix_Clean_Tears.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "Blue Steels",
+      "has_synced": false,
+      "path": "select/10_アルペジオ_Blue_Steels.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アルペジオ",
+      "artist": "bonobos",
+      "has_synced": true,
+      "path": "select/11_アルペジオ_bonobos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルペジオ",
+      "artist": "[ALEXANDROS]",
+      "has_synced": false,
+      "path": "select/pl_01_アルペジオ_[ALEXANDROS].txt"
+    }
+  ]
+}
